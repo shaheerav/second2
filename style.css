@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 85px;
+    background-color:green;
+    float: left;
+
+}
+.left-section{
+    width: 150px;
+    padding-top: 15px;
+    padding-left: 15px;
+    color: white;
+    float: left;
+}
+.logo{
+    height: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+}
+.cap{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.login{
+    float: left;
+    padding-left: 650px;
+    padding-top: 10px;
+}
+.login-lab{
+    color: white;
+    font-weight: bold;
+
+}
+.sub-but{
+    background: darkgreen;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+}
+.sub-but:hover{
+    background: yellow;
+}
+.forgotten{
+    text-decoration: none;
+    color: white;
+}
+.second{
+    float: left;
+    width: 100%;
+    height: 550px;
+    background-image: linear-gradient(green,olive)
+}
+.img{
+    width: 100%;
+    padding-top: 9px;
+}
+.head{
+    font-size: 70px;
+    padding-left: 55px;
+    padding-top: 40px;
+    color: white;
+}
+.para{
+    padding-left: 55px;
+    padding-top: 20px;
+    color: white;
+}
+.left{
+    width: 70%;
+    float: left;
+    height: 550px;
+
+}
+.right{
+    width: 30%;
+    float: left;
+    height: 550px;
+    padding-top: 20px;
+    
+}
+.right input{
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    border-radius: 25px;
+    border-color: none;
+    background: lightgreen;
+    
+}
+.right h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.right h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+.right .submit{
+    color: white;
+    border-color: none;
+    font-size: 15px;
+    cursor: pointer;
+    padding-top: 10px;
+    background: green;
+}
+
